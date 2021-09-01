@@ -1,5 +1,23 @@
 .App {
   text-align: center;
+  background: #312a2a;
+  height: 100vh;
+  padding-top: 3rem;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+
+h1, h2, h3 {
+  padding: 0;
+  margin: 0;
 }
 
 .App-logo {
